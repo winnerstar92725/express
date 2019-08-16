@@ -24,6 +24,7 @@
   },
   "scripts": {
     "start": "node server",
+    "build": "",
     "test": "echo \"no tests yet\" && exit 0",
     "lint": "eslint ./; true"
   },
